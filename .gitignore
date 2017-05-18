@@ -3,6 +3,5 @@
 *.log
 *.js.meta
 node_modules/
-build/
 /.idea/
 /yarn.lock
