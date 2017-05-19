@@ -1,3 +1,6 @@
+import React from 'react';
+
+
 class ColorChange extends React.Component {
 
     constructor() {
